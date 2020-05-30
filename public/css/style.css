@@ -139,14 +139,12 @@ ul {
 .join-header {
 	text-align: center;
 	padding: 20px;
-	background: var(--dark-color-a);
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
 
 .join-main {
 	padding: 30px 40px;
-	background: var(--dark-color-b);
 }
 
 .join-main p {
