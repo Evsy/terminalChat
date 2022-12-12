@@ -9,7 +9,7 @@
     },
     "author": "David Weaver",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "moment": "^2.26.0",
         "qs": "^6.9.4",
         "socket.io": "^2.3.0"
